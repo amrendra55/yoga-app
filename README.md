@@ -66,3 +66,7 @@ which depicts the best performance of user in that login session.
 8. Then user can see all the details about the poses he/she performed like accuracy, consistency 
 etc.
 9. The user has option to log out.
+
+# Outcome
+
+The accuracy of the model came out to be 98 percent. Also the use cases defined for the project along with the necessary UI experience were fulfilled.
