@@ -1,7 +1,7 @@
 
 # Yoga-Fit : Real Time Pose Estimation App
 
-Created a  yogic pose estimation and correction app which can comprehend asanas performed by the user in real time and provide necessary corrections immediately. The system is designed to be highly accurate and consistent. The ui and experience of the system is  made appealing and the user should recieves a customised report about his training. 
+Deployed on https://yoga-fit-8e6f4.web.app/. Created a  yogic pose estimation and correction app which can comprehend asanas performed by the user in real time and provide necessary corrections immediately. The system is designed to be highly accurate and consistent. The ui and experience of the system is  made appealing and the user should recieves a customised report about his training. 
 
 # Dataset
 
